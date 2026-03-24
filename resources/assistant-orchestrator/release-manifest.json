@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "openclaw-resource-release-v1",
+  "resourceType": "skill-pack",
+  "resourceId": "cap.openclaw.skill.assistant-orchestrator",
+  "name": "assistant-orchestrator",
+  "version": "0.1.0",
+  "artifactType": "github-resource-directory",
+  "source": {
+    "repository": "https://github.com/lihongqing2001-gif/openclaw-skills",
+    "homepage": "https://github.com/lihongqing2001-gif/openclaw-skills/tree/main/resources/assistant-orchestrator",
+    "license": "Proprietary",
+    "mirrorStatus": "official"
+  },
+  "license": "Proprietary",
+  "install": {
+    "via": "forge-console",
+    "command": "Open Forge Console and install `cap.openclaw.skill.assistant-orchestrator` from the official resource bundle.",
+    "url": "https://github.com/lihongqing2001-gif/openclaw-skills/tree/main/resources/assistant-orchestrator",
+    "notes": [
+      "Use GitHub as the public distribution surface.",
+      "Use Forge Console as the local install surface."
+    ]
+  },
+  "homepage": "https://github.com/lihongqing2001-gif/openclaw-skills/tree/main/resources/assistant-orchestrator",
+  "archiveFile": "",
+  "builtAt": "2026-03-24T13:33:32Z"
+}

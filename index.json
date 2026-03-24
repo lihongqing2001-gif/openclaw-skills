@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "slug": "assistant-orchestrator",
+      "name": "assistant-orchestrator",
+      "resourceId": "cap.openclaw.skill.assistant-orchestrator",
+      "version": "0.1.0",
+      "mirrorStatus": "official"
+    },
+    {
+      "slug": "gaode-webservice-skill",
+      "name": "gaode-webservice-skill",
+      "resourceId": "cap.openclaw.skill.gaode-webservice-skill",
+      "version": "0.1.0",
+      "mirrorStatus": "official"
+    },
+    {
+      "slug": "ios-task-sync",
+      "name": "ios-task-sync",
+      "resourceId": "cap.openclaw.skill.ios-task-sync",
+      "version": "0.1.0",
+      "mirrorStatus": "official"
+    },
+    {
+      "slug": "my-skill-installer",
+      "name": "my-skill-installer",
+      "resourceId": "cap.openclaw.skill.my-skill-installer",
+      "version": "0.1.0",
+      "mirrorStatus": "official"
+    },
+    {
+      "slug": "qmd-skill",
+      "name": "qmd",
+      "resourceId": "cap.openclaw.skill.qmd-skill",
+      "version": "0.1.0",
+      "mirrorStatus": "official"
+    },
+    {
+      "slug": "xiaohongshu-skills",
+      "name": "xiaohongshu-skills",
+      "resourceId": "cap.openclaw.skill.xiaohongshu-skills",
+      "version": "0.1.0",
+      "mirrorStatus": "official"
+    }
+  ]
+}
